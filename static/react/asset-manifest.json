@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/react/static/css/main.073c9b0a.css",
+    "main.js": "/static/react/static/js/main.4c4c66ef.js",
+    "static/js/787.cda612ba.chunk.js": "/static/react/static/js/787.cda612ba.chunk.js",
+    "static/media/heart-shape-flag.svg": "/static/react/static/media/heart-shape-flag.e926c253f4ee2af519dcb45e056af1f3.svg",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "main.073c9b0a.css.map": "/static/react/static/css/main.073c9b0a.css.map",
+    "main.4c4c66ef.js.map": "/static/react/static/js/main.4c4c66ef.js.map",
+    "787.cda612ba.chunk.js.map": "/static/react/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4c4c66ef.js"
+  ]
+}
